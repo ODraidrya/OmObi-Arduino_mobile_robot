@@ -1,4 +1,4 @@
-# OmObi-Arduino_mobile_robot
+# OmObi Arduino_mobile_robot
 # Bluetooth-Controlled Robot Car with Arduino and HC-05
 
 This repository contains the resources, code, and documentation needed to build a Bluetooth-controlled robot car using an Arduino Uno, HC-05 Bluetooth module, and Adafruit Motor Shield. This project combines robotics, motor control, and mobile app development to create a fun and educational DIY robot for beginners.
