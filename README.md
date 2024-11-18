@@ -5,7 +5,7 @@ This repository contains the resources, code, and documentation needed to build 
 
 ## Features
 - Wireless control of the robot car via Bluetooth.
-- 4-wheel drive with precise motor control using the Adafruit Motor Shield.
+- 4-wheel drive with motor control using the Adafruit Motor Shield.
 - Android app built with MIT App Inventor to control forward, backward, left, and right movements.
 - Custom 3D-printed chassis.
 
