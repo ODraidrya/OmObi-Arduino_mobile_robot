@@ -44,7 +44,8 @@ Download the app APK here: [RobotCarControl_SP.apk](RobotCarControl_SP.apk).
 
 ## Resources
 - **Blog:** [Building a Bluetooth-Controlled Robot Car](https://omartronics.com/building-a-bluetooth-controlled-robot-car-with-arduino-hc-05-and-adafruit-motor-shield/)
-- **Youtube:** [Building a Bluetooth-Controlled Robot Car](https://youtu.be/VA0lXC-1_4U)
+- **Youtube:** [Building a Bluetooth-Controlled Robot Car](https://youtu.be/ED2uPoxdGDM?si=erVkOBaMMThC9LPa)
+- **STL Files:** [Building a Bluetooth-Controlled Robot Car](https://cults3d.com/:2487572)
 - **Arduino and Bluetooth Guide:** [HC-05 Bluetooth Module Tutorial](https://omartronics.com/arduino-and-hc-05-hc-06-bluetooth-module-complete-tutorial/)
 - **Arduino Motor Control:** [L298N and Motor Shield Tutorial](https://omartronics.com/controlling-dc-motors-with-l298n-dual-h-bridge-and-arduino-motor-shield/)
 
